@@ -141,4 +141,4 @@ The pipeline follows these steps:
 ## **📝 Final Thoughts**
 This **ETL pipeline ensures data integrity** while leveraging **AWS services** for efficient processing. With **automation, validation, and scalability**, it offers a **robust data workflow for movie analytics**.
 
-Would you like a **visual dashboard** or a **Python script** for additional insights? 🚀
+
